@@ -32,3 +32,10 @@ Using only the generated responses the CNN reached 66.7% accuracy and the LSTM r
 - `report_materials/` contains the final graphs metrics and predictions
 - `REPORT.typ` contains the editable report
 - `REPORT.pdf` contains the submitted report
+
+
+
+## Contact
+
+- George Dayoub: Ged5222@psu.edu
+- Atharv Madne: Adm6112@psu.edu
