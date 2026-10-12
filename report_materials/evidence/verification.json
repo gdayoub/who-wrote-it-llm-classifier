@@ -1,0 +1,18 @@
+{
+  "paired_comparison": {
+    "cnn": {
+      "both_correct": 31,
+      "fixed": 9,
+      "lost": 9,
+      "both_wrong": 11
+    },
+    "lstm": {
+      "both_correct": 14,
+      "fixed": 13,
+      "lost": 11,
+      "both_wrong": 22
+    }
+  },
+  "verified_experiments": 6,
+  "predictions_per_experiment": 60
+}

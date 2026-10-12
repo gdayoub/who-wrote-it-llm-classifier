@@ -1,0 +1,4 @@
+model_id,family,provider
+openai/gpt-oss-20b,GPT OSS,OpenAI
+nvidia/nemotron-3.5-lightning-30b-a3b,Nemotron,NVIDIA
+z-ai/glm-5.3-flash,GLM,Z.ai
